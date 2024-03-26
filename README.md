@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, vue**
 
-- 📫 How to reach me **aomocalleb@gmail.com**
+- 📫 How to reach me **oulapaulinda2004@gmail.com**
 
 - ⚡ Fun fact **I think am not funny**
 
