@@ -18,6 +18,7 @@
 - 📫 How to reach me **oulapaulinda2004@gmail.com**
 
 - ⚡ Fun fact **I think am not funny**
+- @tailwind completed in all **scopes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
